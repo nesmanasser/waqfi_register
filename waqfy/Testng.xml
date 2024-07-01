@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="waqfy">
+    <test name="Register Test">
+        <classes>
+            <class name="base"/>
+            <class name="socity_register1"/>
+
+        </classes>
+    </test>
+</suite>
